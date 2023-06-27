@@ -1,6 +1,6 @@
 Dataset **Wind Turbines 5** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/o/z/vU/yDH6R00TXWq2JVlvKMcPdDlvkZYv6oUlHZ00Eapw1E6akF6gmStAcRRUxbGm2rKW3kOGDIV3NxAy6KjoIlZSUDU8tbbhwh8bkxCBNW7z2ENiE2UtRU9vTxnQCRz9.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/o/z/vU/yDH6R00TXWq2JVlvKMcPdDlvkZYv6oUlHZ00Eapw1E6akF6gmStAcRRUxbGm2rKW3kOGDIV3NxAy6KjoIlZSUDU8tbbhwh8bkxCBNW7z2ENiE2UtRU9vTxnQCRz9.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
