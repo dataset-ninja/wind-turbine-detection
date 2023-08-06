@@ -9,4 +9,4 @@ If you make use of the Wind Turbine Detection (by Saurabh Shahane) data, please 
 }
 ```
 
-[🔗 Source](https://www.kaggle.com/datasets/saurabhshahane/wind-turbine-obj-detection)
+[Source](https://www.kaggle.com/datasets/saurabhshahane/wind-turbine-obj-detection)

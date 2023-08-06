@@ -21,7 +21,7 @@ PROJECT_NAME_FULL: str = "Wind Turbine Detection"
 ##################################
 LICENSE: License = License.CC_BY_4_0()
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Energy(is_used=False)]
-CATEGORY: Category = Category.EnergyAndUtilities(extra=Category.Aerial())
+CATEGORY: Category = Category.EnergyAndUtilities(extra=[Category.Aerial(), Category.Satellite()], is_original_dataset=False)
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
