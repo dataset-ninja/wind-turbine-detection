@@ -1,4 +1,4 @@
-Dataset **Wind Turbine Detection (by Saurabh Shahane)** can be downloaded in Supervisely format:
+Dataset **Wind Turbine Detection (by Saurabh Shahane)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
  [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/e/7/in/J6oIiWOtf540k5x058KQW6AWhNyADtgIclRC7FKy1SusaTALVPSMtUf9ITjKRIvTtOj6tLradlgf1UnpneiIXzLgVfBfH2RhFHgYDREdTIjthHzxW2dRKoaDELSO.tar)
 
@@ -11,6 +11,8 @@ pip install --upgrade dataset-tools
 ``` python
 import dataset_tools as dtools
 
-dtools.download(dataset='Wind Turbine Detection (by Saurabh Shahane)', dst_path='~/dtools/datasets/Wind Turbine Detection (by Saurabh Shahane).tar')
+dtools.download(dataset='Wind Turbine Detection (by Saurabh Shahane)', dst_dir='~/dataset-ninja/')
 ```
-The data in original format can be 🔗[downloaded here](https://www.kaggle.com/datasets/saurabhshahane/wind-turbine-obj-detection/download?datasetVersionNumber=1)
+Make sure not to overlook the [python code example](https://developer.supervisely.com/getting-started/python-sdk-tutorials/iterate-over-a-local-project) available on the Supervisely Developer Portal. It will give you a clear idea of how to effortlessly work with the downloaded dataset.
+
+The data in original format can be [downloaded here](https://www.kaggle.com/datasets/saurabhshahane/wind-turbine-obj-detection/download?datasetVersionNumber=1)
