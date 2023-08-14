@@ -1,6 +1,6 @@
 Dataset **Wind Turbine Detection (by Saurabh Shahane)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/e/7/in/J6oIiWOtf540k5x058KQW6AWhNyADtgIclRC7FKy1SusaTALVPSMtUf9ITjKRIvTtOj6tLradlgf1UnpneiIXzLgVfBfH2RhFHgYDREdTIjthHzxW2dRKoaDELSO.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/W/a/hl/M6hs4EGh3Zbm87oXM0QJwEk0CLVWnqODhFq4c7gZaVoVSBpC4oMgV3Yl2YRfj3MbqeIFK7AMTyFfvqSgcxyUn5ecJ7AKVjuHCfPNPhfN6zfciDyLfOUKSYs5woAS.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
@@ -15,4 +15,4 @@ dtools.download(dataset='Wind Turbine Detection (by Saurabh Shahane)', dst_dir='
 ```
 Make sure not to overlook the [python code example](https://developer.supervisely.com/getting-started/python-sdk-tutorials/iterate-over-a-local-project) available on the Supervisely Developer Portal. It will give you a clear idea of how to effortlessly work with the downloaded dataset.
 
-The data in original format can be [downloaded here](https://www.kaggle.com/datasets/saurabhshahane/wind-turbine-obj-detection/download?datasetVersionNumber=1)
+The data in original format can be [downloaded here](https://www.kaggle.com/datasets/saurabhshahane/wind-turbine-obj-detection/download?datasetVersionNumber=1).
